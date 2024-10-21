@@ -7,7 +7,7 @@ Created on Sun Sep  1 17:52:51 2024
 """
 
 #Assume s is a string of lower case characters.
-
+#this is just a small test for github
 #Write a program that counts up the number of vowels contained in the string s.
 #Valid vowels are: 'a', 'e', 'i', 'o', and 'u'. 
 #For example, if s = 'azcbobobegghakl', your program should print:
